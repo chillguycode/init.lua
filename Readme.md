@@ -1,6 +1,6 @@
 # Nvim Config Files
 
-This is the Configuration Files(.rc) for Neovim using Lua.
+This is the Configuration Files(.rc) for Neovim using Lua. The file sturcture here supports GNU Stow.
 
 
 ### Plugins Used
